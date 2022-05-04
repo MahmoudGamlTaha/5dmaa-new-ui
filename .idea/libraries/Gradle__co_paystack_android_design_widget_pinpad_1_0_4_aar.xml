@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: co.paystack.android.design.widget:pinpad:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fce2fdc9a2dc527a528b1dbcc4fe67a/jetified-pinpad-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fce2fdc9a2dc527a528b1dbcc4fe67a/jetified-pinpad-1.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6fce2fdc9a2dc527a528b1dbcc4fe67a/jetified-pinpad-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42a6b01ce0fdb09aebf96b451deeda14/jetified-pinpad-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42a6b01ce0fdb09aebf96b451deeda14/jetified-pinpad-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42a6b01ce0fdb09aebf96b451deeda14/jetified-pinpad-1.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1e822369f6a217790542bc768bd435/jetified-pinpad-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1e822369f6a217790542bc768bd435/jetified-pinpad-1.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9a1e822369f6a217790542bc768bd435/jetified-pinpad-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.paystack.android.design.widget/pinpad/1.0.4/991ad695fd2e8ac23a94cf794587d67f525e9b3e/pinpad-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
