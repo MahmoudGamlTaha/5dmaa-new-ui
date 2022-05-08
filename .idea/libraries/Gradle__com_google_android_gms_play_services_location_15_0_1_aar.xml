@@ -1,12 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-location:15.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/879c170675b4393fe0c70da53a66e0e7/jetified-play-services-location-15.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/879c170675b4393fe0c70da53a66e0e7/jetified-play-services-location-15.0.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/879c170675b4393fe0c70da53a66e0e7/jetified-play-services-location-15.0.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d1ab1e0bf8be4088f720287b94491cf/jetified-play-services-location-15.0.1/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d1ab1e0bf8be4088f720287b94491cf/jetified-play-services-location-15.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d1ab1e0bf8be4088f720287b94491cf/jetified-play-services-location-15.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2bf66c6460e249ec6da332d11a94da1b/jetified-play-services-location-15.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2bf66c6460e249ec6da332d11a94da1b/jetified-play-services-location-15.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/2bf66c6460e249ec6da332d11a94da1b/jetified-play-services-location-15.0.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3323fc8a07b62f5825b609d884f601e5/jetified-play-services-location-15.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3323fc8a07b62f5825b609d884f601e5/jetified-play-services-location-15.0.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3323fc8a07b62f5825b609d884f601e5/jetified-play-services-location-15.0.1/AndroidManifest.xml" />

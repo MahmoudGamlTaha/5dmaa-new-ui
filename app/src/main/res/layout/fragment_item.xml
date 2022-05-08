@@ -232,7 +232,7 @@
                     </androidx.cardview.widget.CardView>
 
 
-               <!--     <com.google.android.gms.ads.AdView
+                    <com.google.android.gms.ads.AdView
                         android:id="@+id/adView"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -240,12 +240,13 @@
                         android:layout_centerHorizontal="true"
                         android:layout_marginTop="8dp"
                         app:adSize="LARGE_BANNER"
-                        app:adUnitId="@string/admob_banner_ads_key"
+                        android:visibility="gone"
+                        app:adUnitId="8sskkskksk"
                         app:layout_constraintEnd_toEndOf="parent"
                         app:layout_constraintHorizontal_bias="1.0"
                         app:layout_constraintStart_toStartOf="parent"
                         app:layout_constraintTop_toBottomOf="@+id/safetyCardView" />
--->
+
                     <androidx.cardview.widget.CardView
                         android:id="@+id/locationCardView"
                         android:layout_width="match_parent"

@@ -3,11 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/drawable/selecteditem_dot.xml" value="0.11203703703703703" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/drawable/splash.xml" value="0.1125" />
         <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/activity_report_item.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/fragment_edit_phone.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/fragment_item.xml" value="0.18954918032786885" />
         <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/fragment_offline.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/fragment_selected_city.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/fragment_user_login.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/item_chat_list_offer_accepted_sender.xml" value="0.1" />
         <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/item_item_horizontal_with_user.xml" value="0.1" />
         <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/item_item_tag_adapter.xml" value="0.1" />
         <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/layout/item_item_vertical_with_user.xml" value="0.1" />
+        <entry key="..\:/highcoder/ps&amp;buy-supplier/PS BuySell v3.2/PS BuySell v3.2/Mobile Source/PS-BuySell/app/src/main/res/menu/search_view_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

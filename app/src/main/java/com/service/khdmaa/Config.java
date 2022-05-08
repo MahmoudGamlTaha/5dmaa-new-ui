@@ -64,7 +64,7 @@ public class Config {
      * "Turkish"            | "tr"              | ""
      * ..............................................................
      */
-    public static final String LANGUAGE_CODE = "en";
+    public static final String LANGUAGE_CODE = "ar";
     public static final String DEFAULT_LANGUAGE_COUNTRY_CODE = "";
     public static final String DEFAULT_LANGUAGE = LANGUAGE_CODE;
 
@@ -144,8 +144,8 @@ public class Config {
     /**
      * Region playstore
      */
-    public static String PLAYSTORE_MARKET_URL_FIX = "market://details?id=";
-    public static String PLAYSTORE_HTTP_URL_FIX = "http://play.google.com/store/apps/details?id=";
+    public static String PLAYSTORE_MARKET_URL_FIX = "market://details?id=com.service.khdmaa";
+    public static String PLAYSTORE_HTTP_URL_FIX = "https://play.google.com/store/apps/details?id=com.service.khdmaa";
 
     /**
      * Image Cache and Loading
@@ -263,7 +263,7 @@ public class Config {
      * Razor
      */
     public static boolean isRazorSupportMultiCurrency = false;
-    public static String defaultRazorCurrency = "INR";
+    public static String defaultRazorCurrency = "EGP";
 
 
     /**

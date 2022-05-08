@@ -1,18 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: co.paystack.android:paystack:3.0.17@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2571dd5184a9faa524bc1fde460d372a/jetified-paystack-3.0.17/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2571dd5184a9faa524bc1fde460d372a/jetified-paystack-3.0.17/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2571dd5184a9faa524bc1fde460d372a/jetified-paystack-3.0.17/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/759dd42e2f98e1e992a334026839671e/jetified-paystack-3.0.17/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/759dd42e2f98e1e992a334026839671e/jetified-paystack-3.0.17/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/759dd42e2f98e1e992a334026839671e/jetified-paystack-3.0.17/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b7c4c3f56040838894ad1fb7e344eb50/jetified-paystack-3.0.17/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b7c4c3f56040838894ad1fb7e344eb50/jetified-paystack-3.0.17/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/b7c4c3f56040838894ad1fb7e344eb50/jetified-paystack-3.0.17/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d76d19d1e80b282041a8570171e8c0a/jetified-paystack-3.0.17/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d76d19d1e80b282041a8570171e8c0a/jetified-paystack-3.0.17/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3d76d19d1e80b282041a8570171e8c0a/jetified-paystack-3.0.17/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/co.paystack.android/paystack/3.0.17/cf4722d08f2a171a9964a0325502875fd9d50202/paystack-3.0.17-sources.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.paystack.android/paystack/3.0.17/cf4722d08f2a171a9964a0325502875fd9d50202/paystack-3.0.17-sources.jar!/" />
     </SOURCES>
   </library>

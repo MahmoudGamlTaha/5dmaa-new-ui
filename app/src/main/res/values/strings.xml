@@ -6,8 +6,8 @@
 
     <string name="facebook_app_id" translatable="false">301418548815283</string>
 
-    <string name="fb_login_protocol_scheme" translatable="false">fb0000000000000000</string>
-
+    <string name="fb_login_protocol_scheme" translatable="false">fb301418548815283</string>
+    <string name="facebook_client_token" translatable="false">e0348da1b41122a6d56eec0814d8aec3</string>
 <!--    <string name="admob_banner_ads_key" translatable="false">ca-app-pub-0000000000000000/0000000000</string>
 -->
     <string name="google_map_api_key" translatable="false">AIzaSyBEOXSfyzkMMcYQankeNKZjw-mSC4_02vA</string>
@@ -24,7 +24,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="item_detail__meetup" translatable="false">Meetup</string>
     <string name="item_detail__mailing_on_delivery" translatable="false">Mailing On Delivery</string>
-    <string name="phone_login_phone_hint" translatable="false">+959121212121</string>
+    <string name="phone_login_phone_hint" translatable="false">+201142931228</string>
     <!--History -->
     <string name="history__title">History</string>
     <string name="title__activity_user_history_list">UserHistoryListActivity</string>
